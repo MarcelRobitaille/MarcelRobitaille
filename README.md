@@ -1,6 +1,6 @@
 # :telescope: Marcel Robitaille
 
-Hi, I'm Marcel :wave: I'm a maker. Be it robotics projects, open-source software, or 3D printed gadgets, I love bringing things to life. I was very involved with a robotics group during my bachelor's degree in electrical engineering, and my master's in computer software also had a large robotics component. I have recently finished my master's and am looking for employment in robotics or programming. I'm from :canada: and love :maple_leaf: :pancakes:.
+Hi, I'm Marcel :wave: I'm a maker. Be it robotics projects, open-source software, or 3D printed gadgets, I love bringing things to life. I was very involved with a robotics group during my bachelor's degree in electrical engineering, and my master's in computer software also had a large robotics component. I'm from :canada: and love :maple_leaf: :pancakes:.
 
 ![](https://custom-icon-badges.demolab.com/github/stars/marcelrobitaille?color=640464&style=for-the-badge&labelColor=7C007C&logo=star)
 [![](https://custom-icon-badges.demolab.com/badge/portfolio-marcelrobitaille.me-yellow?style=for-the-badge&logoColor=white&logo=globe)](https://portfolio.marcelrobitaille.me)
