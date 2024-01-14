@@ -10,7 +10,6 @@ Hi, I'm Marcel :wave: I'm a maker. Be it robotics projects, open-source software
 ---
 
 ### :relaxed: About Me
-- :necktie: I'm looking for a job!
 - :star: Hacking on open source
 - 🤖 Passionate about robotics, automation, electronics, and programming
 - :boat: 3D printer enthusiast
